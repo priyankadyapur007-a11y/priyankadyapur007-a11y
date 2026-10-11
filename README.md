@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Priyanka
 
-<!--
-**priyankadyapur007-a11y/priyankadyapur007-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python & C++ | Exploring Cybersecurity + AI
 
-Here are some ideas to get you started:
+TECHNICAL SKILLS 
+• Languages: Python, C++
+• Data analytics: NumPy,Pandas(intermediate)
+• Web technology: CSS
+• Integration: APIs, JSON 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CURRENTLY LEARNING
+• AI Security 
+• Deep Learning
